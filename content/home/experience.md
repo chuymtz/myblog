@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Professional Experience
 subtitle:
 
 # Date format for experience
@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Senior Analytics Engineer
+    company: Occidental Petroleum
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: oxy
+    location: Houston, TX
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
@@ -36,14 +36,35 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Mathematical Scientist
+    company: Occidental Petroleum 
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: oxy
+    location: Houston, TX
+    date_start: '2016-09-01'
+    date_end: '2021-01-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+      
+  - title: Assistant Professor
+    company: Mercy College of Health Sciences
+    company_url: ''
+    company_logo: mercy
+    location: Des Moines, IA
+    date_start: '2015-08-01'
+    date_end: '2016-08-01'
+    
+  - title: Graduate Teaching Assistant
+    company: Iowa State University
+    company_url: ''
+    company_logo: iastate
+    location: Ames, IA
+    date_start: '2010-08-01'
+    date_end: '2015-05-31'
 
 design:
   columns: '2'
