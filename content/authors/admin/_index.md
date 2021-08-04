@@ -12,7 +12,7 @@ email: ""
 highlight_name: false
 interests:
 - Mathematics, Statistics, Programming
-- Tennis, Birds, Drumming, Drumming
+- Tennis, Birds, Drumming, Fishing
 organizations:
 - name: Occidental Petroleum
   url: https://www.oxy.com/
