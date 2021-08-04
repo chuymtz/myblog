@@ -46,6 +46,6 @@ My contributions range from numerical methods to a variety of statistical analys
 I'm an individual who enjoys making a difference at the technical level but also as a group member. 
 I believe that developing valuable tools and insights is an iterative and collaborative process.
 
-Also interested in computational methods to analyze Multiplexed Immunofluorescence image data. Specifically, I'm interested in spatial methods to draw insights from point-process patterns. 
+I'm also interested in computational methods to analyze Multiplexed Immunofluorescence image data. Specifically, I'm interested in spatial methods to draw insights from point-process patterns. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
