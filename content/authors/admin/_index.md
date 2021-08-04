@@ -48,4 +48,4 @@ I believe that developing valuable tools and insights is an iterative and collab
 
 I'm also interested in computational methods to analyze Multiplexed Immunofluorescence image data. Specifically, I'm interested in spatial methods to draw insights from point-process patterns. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/martinez-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
