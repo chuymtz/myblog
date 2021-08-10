@@ -37,10 +37,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/jes%C3%BAs-mart%C3%ADnez-0943a6a2/
 superuser: true
-title: Jesus Martinez
+title: Jesús Martínez
 ---
 
-Mathematical scientist with professional experience in the Oil & Gas industry. 
+Mathematical scientist with professional experience in the Oil & Gas industry.
 My contributions range from numerical methods to a variety of statistical analysis. 
 
 I'm an individual who enjoys making a difference at the technical level but also as a group member. 

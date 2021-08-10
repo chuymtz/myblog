@@ -1,5 +1,6 @@
 ---
-active: false
+active: true
+
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
@@ -19,7 +20,7 @@ content:
   
   # Email form provider
   form:
-    provider: formspree
+    provider: #formspree
     formspree:
       id: test
     netlify:
@@ -29,3 +30,5 @@ content:
 design:
   columns: '2'
 ---
+
+Get in touch with me! I'm open to having research conversations and other potential opportunities. 
